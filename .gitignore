@@ -1,0 +1,81 @@
+# Fichiers et dossiers générés par Eclipse
+
+.classpath
+
+.project
+
+.settings/
+
+
+
+# Fichiers générés par le système de construction Java
+
+bin/
+
+build/
+
+
+
+# Fichiers de logs
+
+*.log
+
+
+
+# Fichiers de configuration du système d'exploitation
+
+.DS_Store
+
+Thumbs.db
+
+
+
+# Fichiers de configuration pour Maven/Gradle (selon l'outil utilisé)
+
+.mvn/
+
+target/
+
+.gradle/
+
+build/
+
+
+
+# Fichiers d'exécution spécifiques
+
+*.class
+
+*.war
+
+*.ear
+
+
+
+# Fichiers de sauvegarde/temporaires
+
+*.tmp
+
+*.bak
+
+*.swp
+
+*~
+
+
+
+# Fichiers spécifiques à IDEs ou outils
+
+.idea/
+
+*.iml
+
+.vscode/
+
+
+
+# Fichiers générés par les tests
+
+test-output/
+
+
