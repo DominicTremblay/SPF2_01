@@ -30,8 +30,6 @@ public class ExampleException {
 			System.out.println(10/0);
 			
 		} catch (Exception erreur) {
-			
-			
 			System.out.println("Erreur: " + erreur.getMessage());
 			System.out.println("Erreur: " + erreur.toString());
 			System.out.println("\nTrace de l'erreur >>>");
